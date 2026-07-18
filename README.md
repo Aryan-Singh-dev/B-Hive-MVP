@@ -516,4 +516,4 @@ A final license has not yet been selected. Add a `LICENSE` file before treating 
 
 ## Author
 
-**Purva Tripathi**
+**Aryan Singh and Purva Tripathi**
